@@ -1,0 +1,31 @@
+// ..... english ..... //
+
+This code extracts information from real estate advertisements found in a text. It analyzes the text to identify and 
+separate details such as:
+
+Modality (Sale or Rent)
+Type (House or Apartment)
+Address (Street or Avenue followed by a number)
+ZIP Code (Format 12345-678)
+Area (In square meters)
+Price (Cost, which can be in various formats including Brazilian reais)
+Phone Number(s) (Contact number(s))
+Responsible Person (Name of the person responsible for the ad)
+The extracted information is organized into a dictionary and printed in a clear format.
+
+// ..... portugues ..... //
+
+Esse código extrai informações de anúncios imobiliários a partir de um texto. Ele analisa o texto para identificar e separar detalhes como:
+
+Modalidade (Venda ou Aluguel)
+Tipo (Casa ou Apartamento)
+Endereço (Rua ou Avenida seguido do número)
+CEP (Formato 12345-678)
+Área (Em metros quadrados)
+Valor (Preço, podendo ser em reais ou outras formas)
+Telefone(s) (Número(s) de contato)
+Responsável (Nome da pessoa responsável pelo anúncio)
+Essas informações são então organizadas em um dicionário e impressas de forma clara.
+
+-- Nicholas Oliveira --
+-- GitHub: esumiguel --
